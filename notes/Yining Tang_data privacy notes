@@ -1,0 +1,28 @@
+Data Privacy
+
+-Importance:
+-	Freedom of choice
+-	Equal opportunity / non-discrimination
+-	Accountability and transparency
+
+-Most online platforms are proprietary software
+
+-User-product relationship
+-	Users are unable to verify or understand the accuracy and extent of information extracted (and extractable) from the data they submit
+-	Patterns can be learned and exploited to affect users in targeted ways [3], customizing user behavior to platform preferences
+
+-Bias
+-	Patterns are learned based on historical data, might include bias
+-	Garbage input will lead to garbage output
+-	examples: Predicting criminality from faces, Sexist AI
+
+-Correlation vs Causation
+-	Risk prediction (releasing prisoners)
+-	black box algorithm
+
+-Future Scrutiny will affect data utilization and data privacy
+-Regulation challenges of user data
+
+-Differential Privacy
+-	Working schema (refer to decision tree)
+
